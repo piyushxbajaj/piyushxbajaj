@@ -1,8 +1,22 @@
-### Hi there 👋
 
-<!--
-**piyushxbajaj/piyushxbajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> Hi there, I'm Piyush Bajaj 👋 <br/> </h2> 
 
+<p align="center"><img width=50% src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"></p>
+<h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
+
+<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I can develop web/ mobile/ frontend with back end using Javascript, Swift, Dart(Flutter). I want to be at the bleeding edge of technology. I want to experience how work gets handled at industry level. 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈. </samp> </p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/annelivia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/anneliviia"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/annelivia"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
