@@ -4,16 +4,7 @@
 <p align="center"><img width=50% src="http://www.simpleimageresizer.com/_uploads/photos/204d2322/bankPhuk_-_1330_403x302.jpg"></p>
 
 
-<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. In my repos you'll find projects created using 
-  <ul>
-  <li>JavaScript</li>
-  <li>Python</li>
-  <li>Swift</li>
-    <li>C</li>
-    
-</ul>
-<p></p>
-I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. </samp> </p>
+<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈.In my repos you'll find projects created using 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
