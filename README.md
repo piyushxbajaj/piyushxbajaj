@@ -4,7 +4,7 @@
 <p align="center"><img width=50% src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"></p>
 <h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
 
-<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I can develop web/ mobile/ frontend with back end using Javascript, Swift, Dart(Flutter). I want to be at the bleeding edge of technology. I want to experience how work gets handled at industry level. 📚📈🔬, and I'm also a competitive programming enthusiastic 🤩 🎈. </samp> </p>
+<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I like making projects on Javascript, Swift, Dart(Flutter). I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. </samp> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,6 +17,7 @@
 </p> -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<-- <p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,5 +27,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...</p> -->
 
