@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi there, I'm Piyush Bajaj 👋 <br/> </h2> 
 
-<p align="center"><img width=50% src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"></p>
+<p align="center"><img width=50% src="http://www.simpleimageresizer.com/_uploads/photos/204d2322/bankPhuk_-_1330_403x302.jpg"></p>
 <h6 align="center">Animation by <a href="https://dribbble.com/daniserpa" target="_blank">Daniela Serpa</a></h6>
 
 <p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I like making projects on Javascript, Swift, Dart(Flutter). I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. </samp> </p>
