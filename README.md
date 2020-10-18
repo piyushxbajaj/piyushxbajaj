@@ -17,8 +17,8 @@
 
 <center>
 <br>
-<table>
-<tbody>
+<table align="center">
+<tbody align="center">
  <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
