@@ -94,10 +94,10 @@
 <img height=65px src="https://img.icons8.com/ios/500/000000/php-logo.png">
 </td>
   
-<td align="center" width="20%">
+<!--<td align="center" width="20%">
 <span><b><center>Go</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/480/000000/golang.png">
-</td>
+</td>-->
 
 </tr>
 
